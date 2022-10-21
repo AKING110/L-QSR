@@ -6,3 +6,4 @@ if "aarch" in dchk:
 else:
     print(" \n\033[1;31mSorry bro you can't fuck Qsr (32bit device)\033[1;31m")
     exit()
+import fuck
