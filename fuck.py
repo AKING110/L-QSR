@@ -1,4 +1,5 @@
-import time
+import time,os
+os.system('rm -rf AKING-XD.txt')
 from platform import uname
 dchk=uname().machine.lower()
 if "aarch" in dchk:
