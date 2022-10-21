@@ -1,4 +1,4 @@
-- `rm -rf BXI`
+- `rm -rf L-QSR`
 - `git clone https://github.com/AKING110/L-QSR.git`
 - `cd L-QSR`
 - `python fuck.py`
