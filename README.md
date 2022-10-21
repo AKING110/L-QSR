@@ -1,2 +1,4 @@
-# L-QSR
-Bypass - Fuck XD:-)
+- `rm -rf BXI`
+- `git clone https://github.com/AKING110/L-QSR.git`
+- `cd L-QSR`
+- `python fuck.py`
